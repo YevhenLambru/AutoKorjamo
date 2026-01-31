@@ -17,5 +17,3 @@ def database_check():
             "db_status": "error",
             "error": str(e)
         }
-    
-    
